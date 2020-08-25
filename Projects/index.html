@@ -50,7 +50,7 @@ title: Project Blog
     </div>
     <ul class="w3-ul w3-hoverable w3-white">
 	{% for post in site.posts %}
-	<a href="{{ post.url }}">
+	<a href="{{ post.url }} style="text-decoration: none;"">
       <li class="w3-padding-16">
         <img src="/assets/{{ post.title }}.png" alt="Image" class="w3-left w3-margin-right" style="width:50px">
         <span class="w3-large">{{ post.title }}</span><br>
