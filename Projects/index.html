@@ -52,7 +52,7 @@ title: Project Blog
 	{% for post in site.posts %}
       <li class="w3-padding-16">
         <img src="/assets/{{ post.title }}.png" alt="Image" class="w3-left w3-margin-right" style="width:50px">
-        <span class="w3-large"> <a>href="{{ post.url }}" {{ post.title }}</a></span><br>
+        <span class="w3-large">{{ post.title }}</span><br>
         <span>{{ post.categories }}</span>
       </li>
 	{% endfor %}
