@@ -26,6 +26,7 @@ baseurl: "/Projects" # the subpath of your site, e.g. /blog
 url: "https://danielgilbert.digital" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DanielG51220500
 github_username: dmgilbert
+permalink: /blog/:year/:month/:day/:title
 
 # Build settings
 theme: minima
