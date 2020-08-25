@@ -7,7 +7,7 @@ categories: "Project"
 
 My room is currently rather boring, so I want to make a 120-150mm shelf to go above my desk, holding a few large books, art prints and other decorations to make my room less of a quarantine prison cell. I want the shelf to be around 600mm above my desk but it needs to be at least 530mm to clear my monitors and ideally have at least a 50mm gap between the top of the monitors and the shelf. I'd like the shelf to rest up against the wall, but because I'm renting I can't damage the wall in any way. I'd also like to keep as much desk space as possible and also keep the space nice and open so I can pretend I'm free and not trapped working at my desk all day.
 
-<img src="/assets/A Shelf Above my Desk" alt="drawing" width="200"/>
+<img src="/assets/A Shelf Above my Desk.png" alt="Inspirational placeholder" width="200"/>
 
 <br/>
 
