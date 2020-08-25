@@ -2,7 +2,7 @@
 layout: post
 title:  "A Shelf Above my Desk"
 date:   2020-08-25 12:20:41 +1000
-categories: Project
+categories: "Livening up my prison cell of a room."
 ---
 __Design Goals:__
 
