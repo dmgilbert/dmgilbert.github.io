@@ -43,13 +43,31 @@ title: Breaking Things in the Process of Making Things
     </div>
   </div><hr>
   
-  <!-- Posts -->
+  <!-- Project Posts -->
   <div class="w3-card w3-margin">
     <div class="w3-container w3-padding">
-      <h4>Popular Posts</h4>
+      <h4>Project Posts</h4>
     </div>
     <ul class="w3-ul w3-hoverable w3-white">
-	{% for post in site.posts %}
+	{% for post in site.categories.Project %}
+	<a href="{{ post.url }}" style="text-decoration: none;">
+      <li class="w3-padding-16">
+        <img src="/assets/{{ post.title }}.png" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">{{ post.title }}</span><br>
+      </li>
+	</a>
+	{% endfor %}
+    </ul>
+  </div>
+  
+  
+  <!-- D&D Posts -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>D&D Posts</h4>
+    </div>
+    <ul class="w3-ul w3-hoverable w3-white">
+	{% for post in site.categories.D&D %}
 	<a href="{{ post.url }}" style="text-decoration: none;">
       <li class="w3-padding-16">
         <img src="/assets/{{ post.title }}.png" alt="Image" class="w3-left w3-margin-right" style="width:50px">
