@@ -24,6 +24,31 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif}
 .fa-anchor,.fa-coffee {font-size:200px}
 </style>
+<style>
+body, html {
+    height: 100%;
+}
+
+
+.hero-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("banner.jpg");
+  height: 70%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+</style>
 </head>
 
 <body>
@@ -47,11 +72,13 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Lato", sans-serif}
 </div>
 
 <!-- Header -->
-<header class="w3-container w3-grey w3-center" style="padding:128px 16px">
-  <h1 class="w3-margin w3-jumbo">Daniel Gilbert</h1>
-  <p class="w3-xlarge">A website about me</p>
-  <a href="Blog" class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Check out my blog!</a>
-</header>
+ <div class="hero-image">
+  <div class="hero-text">
+    <h1>I am Daniel Gilbert</h1>
+    <button>Check out my blog!</button>
+  </div>
+</div> 
+
 
 <!-- First Grid -->
 <div class="w3-row-padding w3-padding-64 w3-container">
