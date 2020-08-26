@@ -2,7 +2,7 @@
 layout: post
 title:  "PAGE TITLE GOES HERE"
 date:   YYYY-MM-DD 12:20:41 +1000
-group: "Project/D&D/Other"
+subtitle: "VERY SHORT DESCRIPTION"
 ---
 
 make sure to save file with title YYYY-MM-DD-PAGE-TITLE-GOES-HERE
