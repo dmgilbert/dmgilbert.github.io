@@ -45,5 +45,4 @@ __Designs:__
 
 __Final Design:__
 I ended up deciding to go with the third option as I felt it best fit the constraints and what I wanted to do with the project. I then drew up a few simplified FBD's (free body diagrams) for the design and this helped me see a potential problem for sagging in the center of the shelf. The shelf is going to have a relatively large span, and the wall support provides very little resistance to vertical loads (hence why it is modelled as a roller support below), so I&#39;ll need to pick a rigid enough shelf for the load. I did a quick test with a similar length of 3mm balsa wood I had lying around and I&#39;m it managed to hold most of the required load without bending, so I&#39;m not too worried about this issue.
-<div style="text-align: center"><img src="/assets/front.PNG" width="50%" /></div>
-<div style="text-align: center"><img src="/assets/side.PNG" width="50%" /></div>
+<div style="text-align: center"><img src="/assets/FBD.PNG" width="50%" /></div>
