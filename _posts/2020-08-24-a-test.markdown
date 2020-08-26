@@ -2,7 +2,8 @@
 layout: post
 title:  "A Test"
 date:   2020-08-24 12:20:41 +1000
-group: "Other"
+subtitle: "Testing"
+tags: "Test"
 ---
 
 Testing the excerpt feature from Jekyll to see how everything works. I ~hope~ everything is set up write and I can just start filling in content now.
