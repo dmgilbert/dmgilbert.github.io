@@ -22,7 +22,7 @@ title: Project Blog
 email: me@danielgilbert.digital
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of things I've started to do or think about and sometimes finished.
-baseurl: "/Projects" # the subpath of your site, e.g. /blog
+baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://danielgilbert.digital" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: DanielG51220500
 github_username: dmgilbert
