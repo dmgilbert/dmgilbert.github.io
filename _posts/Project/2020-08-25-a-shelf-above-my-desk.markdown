@@ -3,7 +3,7 @@ layout: post
 title:  "A Shelf Above my Desk"
 date:   2020-08-25 12:20:41 +1000
 subtitle: "Initial Design"
-tags: "Projects Desk R"
+tags: "Projects Desk RSS"
 categories: "Project"
 ---
 
