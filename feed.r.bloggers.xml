@@ -14,7 +14,7 @@ layout: null
         {% for post in site.tags["R"] %}
             <item>
                 <title>{{ post.title | xml_escape }}</title>
-                <author>me@danielgilbert.digital Daniel Gilbert</author>
+                <author>me@danielgilbert.digital (Daniel Gilbert)</author>
                 <description>{{ post.excerpt | xml_escape }}</description>
                 <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
                 <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
