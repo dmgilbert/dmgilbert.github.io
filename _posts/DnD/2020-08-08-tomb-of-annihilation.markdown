@@ -3,7 +3,7 @@ layout: post
 title:  "Tomb of Annihilation"
 date:   2020-08-08 12:20:41 +1000
 subtitle: "D&D Campaign Summary"
-tags: "DnD" "R"
+tags: "DnD R"
 categories: "DnD"
 ---
 
