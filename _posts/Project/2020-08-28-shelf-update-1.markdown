@@ -21,8 +21,8 @@ I was really happy with how this looked! Despite having not painted the supports
 __Calculations:__
 Modelling the shelf as a simply supported beam holding 10kg of objects uniformly distributed over its length and taking the weight of the shelf to be 6.7kg, I found that there would be around a 30.67 Nm maximum moment at the midspan of the shelf. I then calculated the maximum stress this would induce at the top/bottom fibre of the beam, σmax = 3 MPa. This was well within the strength of wood using these (https://www.engineeringtoolbox.com/wood-beams-strength-d_1480.html) values, giving a decent factor of safety while already using an overestimate for the shelf load.
 
-Shelf properties for calculation: 1500x240x16 Oak 
+Shelf properties for calculation: 1500&times;240&times;16 Oak 
 <br/>
-Second moment of area: 0.24&times;0.008^3/12 = 81.92e-9 Nmm^4
+Second moment of area: 0.24 &times; 0.008^3/12 = 81.92e-9 Nmm^4
 <br/>
-Max stress = 30.67&times;0.008/81.92e-9 = 2.995e6 N/m^2 = 2.995 MPa
+Max stress = 30.67 &times; 0.008/81.92e-9 = 2.995e6 N/m^2 = 2.995 MPa
