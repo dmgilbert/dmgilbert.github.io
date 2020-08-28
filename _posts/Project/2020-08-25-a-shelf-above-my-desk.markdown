@@ -39,7 +39,7 @@ __Designs:__
 - Takes up minimal desk space, steel pipes match the round steel monitor stand already on the desk, supports the required load, simpler/cheaper to construct than other designs
 - Still takes up some desk space, limited by only 550mm pipe being available so some risers would be necessary, may require a require a more rigid shelf to avoid sagging in the centre
 
-<div style="text-align: center"><img src="/assets/iso.PNG" width="70%" /></div>
+<div style="text-align: center"><img src="/assets/iso.jpg" width="70%" /></div>
 
 <br/>
 
