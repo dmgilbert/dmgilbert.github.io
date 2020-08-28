@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Shelf Update- A little bit tilted"
+title:  "Shelf Update"
 date:   2020-08-28 12:35:41 +1000
-subtitle: "Starting to put things together"
+subtitle: "A Little Bit Tilted"
 categories: "Project"
 tags: "desk" "shelf" "update"
 ---
