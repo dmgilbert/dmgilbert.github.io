@@ -11,7 +11,7 @@ title: Breaking Things in the Process of Making Things
   <!-- Blog entry -->
 {% for post in site.posts %}
   <div class="w3-card-4 w3-margin w3-white">
-    <img src="/assets/{{ post.title }}.png" alt="{{ post.title }}" style="width:100%">
+    <img src="/assets/{{ post.name }}.png" alt="{{ post.title }}" style="width:100%">
     <div class="w3-container">
       <h3><b>{{ post.title }}</b></h3>
       <h5><span class="w3-opacity">{{ post.subtitle }}, {{ post.date | date_to_string }}</span></h5>
@@ -52,7 +52,7 @@ title: Breaking Things in the Process of Making Things
 	{% for post in site.categories.Project %}
 	<a href="{{ post.url }}" style="text-decoration: none;">
       <li class="w3-padding-16">
-        <img src="/assets/{{ post.title }}.png" alt="{{ post.title }}" class="w3-left w3-margin-right" style="width:50px">
+        <img src="/assets/{{ post.name }}.png" alt="{{ post.title }}" class="w3-left w3-margin-right" style="width:50px">
         <span class="w3-large">{{ post.title }}</span><br>
       </li>
 	</a>
@@ -70,7 +70,7 @@ title: Breaking Things in the Process of Making Things
 	{% for post in site.categories.DnD %}
 	<a href="{{ post.url }}" style="text-decoration: none;">
       <li class="w3-padding-16">
-        <img src="/assets/{{ post.title }}.png" alt="{{ post.title }}" class="w3-left w3-margin-right" style="width:50px">
+        <img src="/assets/{{ post.name }}.png" alt="{{ post.title }}" class="w3-left w3-margin-right" style="width:50px">
         <span class="w3-large">{{ post.title }}</span><br>
       </li>
 	</a>
