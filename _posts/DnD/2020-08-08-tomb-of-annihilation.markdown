@@ -25,11 +25,19 @@ Reaching Omu, the party met a defecting Red Wizard who replaced the fallen chara
 
 __Attempted Espionage__
 
-content
+Either using disguise self to appear as Yuan'ti or turning invisible, the party snuck into the Yuan'ti palace, taking with them a red wizard who they pretended was their prisoner. This got them through the gate, but they didn't have any plan after that; this ended up costing them dearly. One of the players found a strange looking arcane circle, stepping on it took them to the throne room, where they stole a spellbook and set off a temple wide alarm. Trying desperately to hide, one of the Yuan'ti priestesses, Fenthaza, hid the party away and offered to help them escape if they helped her stage a coup to instate her as the leader of the Yuan'ti. The players, with not much other choice, agreed and Fenthaza offered to turn the players into Yuan'ti, making them stronger but at the cost of their humanity and sanity. A few players agreed, with two of them gaining an indefinite madness effect and one getting away scot-free. As the coup began and Yuan'ti infighting broke out, the players snuck back into the throne room and challenged Ras Nsi, the current leader, and brought him down to his last breath. While this happened, a demon summoned by a player went beserk, and Ras Nsi took this opportunity to bargain for his life with the knowledge of a secret tunnel. The players, being exhausted and depleted from the fight, agreed; sneaking out with the required puzzle cube as Ras Nsi warned them of a false entrance to the tomb. 
 
 <br/>
 
 __The Tomb of Horrors__
 
+Rendezvousing with the Red Wizards at the tomb entrance, the players handed over the puzzle cubes and watched as the Red Wizards attempted to enter the tomb, taking the false entrance and all dying to a trap. The players were a little rattled, but managed to find the true entrance and begin their deadly trudge through the dungeon. The first few floors were cleared with relative ease, the players discovering that each floor had a prismatic skeleton key, a triangular prism on the first floor, a rectangular one on the next, and assumed correctly that these keys might be important later on. They also found tombs to some of the gods of Omu, with a couple players taking magical items from the tomb and being possesed by the ghosts of the dead gods. From this possession they learnt that a lich, Acererack, killed the gods and built a tomb here to hide away his possessions. On the third floor, the players kept seeing weird alien moss and kept finding eye shaped crystals, leading them into a Beholder's lair. Here they had a rather insane combat, fighting an invisible beholder in a frictionless room, and came out mostly on top- losing one player to the Beholder's petrification beam. Resting after the fight, Acererack stoppped by to taunt the players, stealing the petrified player and driving the rest of the party to head deeper. The party gained another member on the next floor, freeing a druid trapped inside a mirror and continuing on deeper together.
+
+<br/>
+
+__The Finale__
+
 content
+
+<br/>
 
