@@ -7,8 +7,4 @@ tags: "Projects Fermentation RSS"
 categories: "Project"
 ---
 
-make sure to save file with title YYYY-MM-DD-PAGE-TITLE-GOES-HERE
-
-the first line should be an introductory blurb, that will appear on the main page using the excerpt function
-
-markdown syntax can be used to make things look pretty
+Over the past week I've been tinkering around with a few smaller things, brewing up some fermented products and making a chopping board. This all started when I noticed the raw honey collected from my dad's beehive had started to ferment a little, so I quickly rushed to think of ways to use this honey before it was wasted. With roughly 5kg of the stuff, I got to work starting the fermentation process, making two batches of mead as well as garlic, strawberries and blueberries (from left to right). The bottle on the far right is Kvass, a slightly alcoholic fermented drink made from burnt bread and raisins. 
