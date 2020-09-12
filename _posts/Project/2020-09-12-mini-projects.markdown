@@ -18,7 +18,7 @@ Making mead with raw honey has been in the back of my mind for a while, but this
 <br/>
 
 __Kvass (Burnt Bread Tea):__
-
+During my time researching fermented drinks, I came across a bizarre recipe for a Russian/Ukranian drink that was so absurd I had to try and make it. The recipe calls for burning two slices of dark rye bread and adding them to 1.5L of boiling water along with a handful of raisins and a couple lemon slices. I let this sit for ~8 hours (I started in the evening and let it sit overnight) and then in the morning I strained out the chunks, added a teaspoon of yeast, the rest of the lemon's juice, some more raisins and added the mix to my fermenting jug. After a day the drink was ready, and tasted like a suprisingly pleasant cider! Shocking considering the strange ingredients...
 
 <br/>
 
