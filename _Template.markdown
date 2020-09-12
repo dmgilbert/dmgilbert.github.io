@@ -4,7 +4,7 @@ title:  "PAGE TITLE GOES HERE"
 date:   YYYY-MM-DD 12:20:41 +1000
 subtitle: "VERY SHORT DESCRIPTION"
 tags: "ENTER TAGS HERE RSS"
-categories: "DnD" OR "Projects" OR "Other"
+categories: "DnD" OR "Project" OR "Other"
 ---
 
 make sure to save file with title YYYY-MM-DD-PAGE-TITLE-GOES-HERE
