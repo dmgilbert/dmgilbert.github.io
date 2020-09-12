@@ -13,11 +13,13 @@ Over the past week I've been tinkering around with a few smaller things, brewing
 <br/>
 
 __Using up the Honey:__
+<br/>
 Making mead with raw honey has been in the back of my mind for a while, but this situation provided the catalytic push to get started. After some research, I found a $30 brewing kit and some suitable winemaker's yeast on ebay would be good enough to get started, so I ordered these and prepared the other fermented things in the meantime. The strawberry and blueberry fermentation took about a week, I simply sanatised the jars in the oven for 5mins at 140&#176; and placed the fruit in the jars with the honey. After about a week, the fruit had an effervescence about it and the taste had definetly changed and was quite tasty when paired with some homemade pannacotta. The garlic honey is still fermenting, apparently taking about a month or two but it seems to be working as the garlic is becoming increasingly pungent.
 
 <br/>
 
 __Kvass (Burnt Bread Tea):__
+<br/>
 During my time researching fermented drinks, I came across a bizarre recipe for a Russian/Ukranian drink that was so absurd I had to try and make it. The recipe calls for burning two slices of dark rye bread and adding them to 1.5L of boiling water along with a handful of raisins and a couple lemon slices. I let this sit for ~8 hours (I started in the evening and let it sit overnight) and then in the morning I strained out the chunks, added a teaspoon of yeast, the rest of the lemon's juice, some more raisins and added the mix to my fermenting jug. After a day the drink was ready, and tasted like a suprisingly pleasant cider! Shocking considering the strange ingredients...
 
 <br/>
